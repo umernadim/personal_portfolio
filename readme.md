@@ -9,7 +9,6 @@ Welcome to my **portfolio website** — a space where I showcase my work, skills
 - **HTML** – Structure  
 - **CSS** – Styling and responsive design  
 - **JavaScript** – Interactivity and functionality  
-- *(Optional)* Add any libraries or frameworks you used (e.g., GSAP, Bootstrap, Tailwind)
 
 ## 🎯 Features  
 ✅ Fully responsive design  
