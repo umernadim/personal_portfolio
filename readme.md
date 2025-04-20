@@ -3,7 +3,7 @@
 Welcome to my **portfolio website** — a space where I showcase my work, skills, and journey as a web developer. This project was built to reflect my personality and frontend development capabilities.
 
 ## 🚀 Live Demo  
-🔗 [View My Portfolio Here](your-portfolio-live-link)
+🔗 [View My Portfolio Here] https://umernadim.github.io/personal_portfolio/ 
 
 ## 🛠️ Tech Stack  
 - **HTML** – Structure  
