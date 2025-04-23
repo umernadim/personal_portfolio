@@ -19,7 +19,7 @@ const projectsData = [
     title: "<span>Two</span> <span>Good Co.</span>",
     descp:
       "Support and empower women experiencing domestic violence, every day of the year.",
-    img: "assets/twoGoodCo.png",
+    img: "https://cdn.sanity.io/images/w8f1ak3c/production/13b0e83a9ceed7de405a0e3450ab70e7d651bcf0-8035x5357.jpg",
     link: "https://umernadim.github.io/twoGoodCo/"
   },
   {
